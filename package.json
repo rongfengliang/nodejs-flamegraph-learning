@@ -10,7 +10,7 @@
     "flame": "node --prof-process --preprocess -j isolate*.log | flamebearer"
   },
   "dependencies": {
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "fast-levenshtein": "^2.0.6"
   },
   "devDependencies": {
